@@ -114,7 +114,7 @@
         <lombok.version>1.18.20</lombok.version>
         <mockito.version>3.10.0</mockito.version>
         <rx.version>1.3.8</rx.version>
-        <snakeyaml.version>1.28</snakeyaml.version>
+        <snakeyaml.version>1.32</snakeyaml.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <spring-test.version>5.3.7</spring-test.version>
         <google.jsr305.version>3.0.2</google.jsr305.version>
